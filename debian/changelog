@@ -1,0 +1,5 @@
+cython (0.19.2-1) unstable; urgency=low
+
+  * source package automatically created by stdeb 0.5.1
+
+ -- Robert Bradshaw, Stefan Behnel, Dag Seljebotn, Greg Ewing, et al. <cython-devel@python.org>  Tue, 19 Nov 2013 13:27:06 -0600
